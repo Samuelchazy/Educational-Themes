@@ -1,2 +1,2 @@
-# SocialStudies
-Data analysis done on social studies framework in schools
+# Educational Themes
+Data analysis done on Educational Themes frameworks in schools
